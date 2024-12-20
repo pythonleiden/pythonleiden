@@ -6,7 +6,7 @@ https://python-leiden.nl
 
 ```bash
 sudo apt install jekyll
-jekyll -s # this will serve on http://localhost:4000
+jekyll serve # this will serve on http://localhost:4000
 ```
 
 ## Contributing
