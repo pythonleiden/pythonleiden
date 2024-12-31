@@ -9,8 +9,9 @@ We're a local user group for the Python programming language based in Leiden, Th
 
 - [Join our Discord server](https://discord.gg/Eqe7wnuy2X)
 - [Propose a talk](mailto:mb@x14.nl)
-- [Write to us](mailto:mb@x14.nl)
+- [Subscribe to our newsletter](https://laposta.nl/f/sssy9kcbuycn) for announcements about upcoming meetings, or
 - Follow <a rel="me" href="https://fosstodon.org/@pythonleiden">on Mastodon</a>
+- [Write to us](mailto:mb@x14.nl)
 - Follow the [code of conduct](/code-of-conduct.html)
 - Interested in sponsoring? [Check out our sponsor page](/sponsor.html)
 
