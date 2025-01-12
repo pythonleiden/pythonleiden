@@ -21,7 +21,7 @@ Join us, be part of our community and let's meet there.
 - [Join our Discord server](https://discord.gg/Eqe7wnuy2X)
 - [Propose a talk](mailto:mb@x14.nl)
 - [Write to us](mailto:mb@x14.nl)
-- Follow <a rel="me" href="https://fosstodon.org/@pythonleiden">on Mastodon</a>
+- Follow <a rel="me" href="https://fosstodon.org/@pythonleiden">on Mastodon</a> or on [Bluesky](https://bsky.app/profile/pythonleiden.fosstodon.org.ap.brid.gy)
 - Our events follow the [Python Software Foundation code of conduct](https://policies.python.org/python.org/code-of-conduct/)
 - Interested in sponsoring? [Check out our sponsor page](/sponsor.html)
 
