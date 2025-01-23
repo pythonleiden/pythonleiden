@@ -6,12 +6,12 @@ title: Python Leiden User Group
 # Python Leiden User Group
 
 We're a local user group for the Python programming language based in Leiden, The Netherlands.
-On our bi-monthly meetings you can exchange knowledge, learn new things and meet other Pythonistas.
+On our bi-monthly meetings you can exchange knowledge, learn new things and meet other Python-people.
 
 ## Next event
 
 Monday, 27th of January 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
-Please RSVP at the [Meetup event page](https://www.meetup.com/leiden-python-user-group/events/305358713/).
+for more info please check the [event page](/meeting-2025-01-27.html).
 
 Join us, be part of our community and let's meet there.
 
