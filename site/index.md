@@ -10,8 +10,8 @@ On our bi-monthly meetings you can exchange knowledge, learn new things and meet
 
 ## Next event
 
-Monday, 27th of January 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
-for more info please check the [event page](/meeting-2025-01-27.html).
+Monday, 24th of March 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
+More info on the [event page](/meeting-2025-03-24.html).
 
 Join us, be part of our community and let's meet there.
 
@@ -34,6 +34,11 @@ The language used in our group is English to cater for the large amount of non-D
 
 - Would you like to host us? Please get in touch!
 - Follow our Mastodon, Discord or Meetup groups for updates
+
+## Past events
+
+Monday, 27th of January 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
+More info on the [event page](/meeting-2025-01-27.html).
 
 ### Disclaimer
 
