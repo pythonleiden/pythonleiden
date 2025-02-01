@@ -29,8 +29,9 @@ The language used in our group is English to cater for the large amount of non-D
 
 ## Organisers
 
-- [Michiel](https://github.com/mbeijen)
-- You? We're looking for more organizers! Let me know!
+- Michiel Beijen
+- Karlijn Elias
+- You? We're looking for more organizers! Let us know!
 
 - Would you like to host us? Please get in touch!
 - Follow our Mastodon, Discord or Meetup groups for updates
