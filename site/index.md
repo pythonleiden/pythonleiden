@@ -21,6 +21,7 @@ Join us, be part of our community and let's meet there.
 
 - [Join our Meetup.com group](https://www.meetup.com/leiden-python-user-group/). On Meetup we organize our meetings. This is the best way to stay informed on when and where we have our next meeting.
 - [Join our Discord server](https://discord.gg/Eqe7wnuy2X)
+- [Join our LinkedIn group](https://www.linkedin.com/groups/10059030/) for professional networking
 - [Propose a talk](mailto:mb@x14.nl)
 - [Write to us](mailto:mb@x14.nl)
 - Follow <a rel="me" href="https://fosstodon.org/@pythonleiden">on Mastodon</a> or on [Bluesky](https://bsky.app/profile/pythonleiden.fosstodon.org.ap.brid.gy)
