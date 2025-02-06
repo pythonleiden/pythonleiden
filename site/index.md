@@ -7,6 +7,8 @@ title: Python Leiden User Group
 
 We're a local user group for the Python programming language based in Leiden, The Netherlands.
 On our bi-monthly meetings you can exchange knowledge, learn new things and meet other Python-people.
+Our meetings are free of charge and open to everyone. Our presentations and talks are in English to
+be for the large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
@@ -32,9 +34,6 @@ The language used in our group is English to cater for the large amount of non-D
 - Michiel Beijen
 - Karlijn Elias
 - You? We're looking for more organizers! Let us know!
-
-- Would you like to host us? Please get in touch!
-- Follow our Mastodon, Discord or Meetup groups for updates
 
 ## Past events
 
