@@ -10,8 +10,8 @@ On our bi-monthly meetings you can exchange knowledge, learn new things and meet
 
 ## Next event
 
-Monday, 24th of March 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
-More info on the [event page](/meeting-2025-03-24.html).
+Thursday, 27th of March 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
+More info on the [event page](/meeting-2025-03-27.html).
 
 Join us, be part of our community and let's meet there.
 
@@ -43,4 +43,5 @@ More info on the [event page](/meeting-2025-01-27.html).
 
 ### Disclaimer
 
-This website is created and maintained by the Python Leiden User Group, an independent community of Python users in Leiden and the surrounding area. We are not officially affiliated with or endorsed by the Python Software Foundation (PSF). "Python" is a trademark of the Python Software Foundation.
+This website is created and maintained by the Python Leiden User Group, an independent community of Python users in Leiden and the surrounding area. We are
+part of the [Python Software Foundation Meetup Pro Network](https://www.meetup.com/pro/python-software-foundation-meetups/). "Python" is a trademark of the Python Software Foundation.
