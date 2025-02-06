@@ -5,7 +5,10 @@ title: Python Leiden User Group | Sponsorship
 
 # Current sponsors
 
-Our meeting venue is kindly offered by [Technolab](https://www.technolableiden.nl/), a venue that offers a variety of workshops and activities for children and teenagers.
+![steam-fish-1](/images/logo-technolab.svg){: width="400" }
+
+Our meeting venue is kindly offered by [Technolab](https://www.technolableiden.nl/), an organization that offers
+science education for children and teenagers. We're very happy to be able to use their facilities.
 
 # Sponsoring and collaboration
 

@@ -41,6 +41,12 @@ The language used in our group is English to cater for the large amount of non-D
 Monday, 27th of January 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
 More info on the [event page](/meeting-2025-01-27.html).
 
+## Partner
+
+[Technolab](https://www.technolableiden.nl/) is an organization that offers science education for children and teenagers. We're very happy to be able to use their facilities.
+
+![Technolab logo](/images/logo-technolab.svg){: width="400" }
+
 ### Disclaimer
 
 This website is created and maintained by the Python Leiden User Group, an independent community of Python users in Leiden and the surrounding area. We are
