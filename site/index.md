@@ -12,16 +12,16 @@ be for the large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
-Thursday, 27th of March 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
-More info on the [event page](/meeting-2025-03-27.html).
+Thursday, 22nd of May 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
+More info on the [event page](/meeting-2025-05-22.html).
 
 Join us, be part of our community and let's meet there.
 
 ## Group information
 
 - [Join our Meetup.com group](https://www.meetup.com/leiden-python-user-group/). On Meetup we organize our meetings. This is the best way to stay informed on when and where we have our next meeting.
-- [Join our Discord server](https://discord.gg/Eqe7wnuy2X)
 - [Join our LinkedIn group](https://www.linkedin.com/groups/10059030/) for professional networking
+- [Join our Signal group](https://signal.group/#CjQKII1B1fYKxgmZ6GVrkaiDXPFjbwmxHGz1h9HtBOCOENIaEhAnHAKYkjWtIftRCNfbDh2q) for chat and updates
 - [Propose a talk](mailto:mb@x14.nl)
 - [Write to us](mailto:mb@x14.nl)
 - Follow <a rel="me" href="https://fosstodon.org/@pythonleiden">on Mastodon</a> or on [Bluesky](https://bsky.app/profile/pythonleiden.fosstodon.org.ap.brid.gy)
@@ -34,12 +34,12 @@ The language used in our group is English to cater for the large amount of non-D
 
 - Michiel Beijen
 - Karlijn Elias
-- You? We're looking for more organizers! Let us know!
+- Ricky Lim
 
 ## Past events
 
-Monday, 27th of January 2025 from 20:00 - 22:00 at Denksportcentrum, Robijnstraat 4 in Leiden.
-More info on the [event page](/meeting-2025-01-27.html).
+- Thursday, 27 of March at Technolab ([event page](/meeting-2025-03-27.html))
+- Monday, 27th of January 2025 at Denksportcentrum ([event page](/meeting-2025-01-27.html))
 
 ## Partner
 
