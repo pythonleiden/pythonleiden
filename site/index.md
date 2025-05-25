@@ -12,8 +12,8 @@ be for the large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
-Thursday, 22nd of May 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
-More info on the [event page](/meeting-2025-05-22.html).
+Thursday, 10th of July 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
+More info on the [event page](/meeting-2025-07-10.html).
 
 Join us, be part of our community and let's meet there.
 
@@ -38,6 +38,7 @@ The language used in our group is English to cater for the large amount of non-D
 
 ## Past events
 
+- Thursday, 22nd of May at Technolab ([event page](/meeting-2025-05-22.html))
 - Thursday, 27 of March at Technolab ([event page](/meeting-2025-03-27.html))
 - Monday, 27th of January 2025 at Denksportcentrum ([event page](/meeting-2025-01-27.html))
 
