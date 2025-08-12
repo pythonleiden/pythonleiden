@@ -18,6 +18,7 @@ At this meeting, we have two talks planned:
 
 - Talk 1: **Architecture of the Transformer model, used by Large Language Models such as ChatGPT** by Priyanjali Goel
 - Talk 2: **HTMX, the postmodern way of adding modern web features to your app** by Jan Murre
+- Talk 3: **Memory Graph: Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy** by Bas Terwijn
 
 Our talks happen in a friendly and informal setting. They are a great way to learn new things, share your knowledge, and meet other Python enthusiasts.
 There is always room for questions and discussion.
