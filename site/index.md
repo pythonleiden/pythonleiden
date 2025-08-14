@@ -14,7 +14,7 @@ be for the large amount of non-Dutch speakers in the Python community.
 
 Thursday, 4th of September 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
 
-At this meeting, we have two talks planned:
+At this meeting, we have three talks planned:
 
 - Talk 1: **Architecture of the Transformer model, used by Large Language Models such as ChatGPT** by Priyanjali Goel
 - Talk 2: **HTMX, the postmodern way of adding modern web features to your app** by Jan Murre
