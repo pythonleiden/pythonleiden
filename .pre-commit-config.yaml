@@ -6,7 +6,7 @@
 repos:
   # Pre-commit Hooks Repository
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.2.0
+    rev: v6.0.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
