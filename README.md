@@ -1,6 +1,6 @@
 # Python Leiden User Group
 
-https://python-leiden.nl
+https://pythonleiden.nl
 
 ## Building the site locally
 
