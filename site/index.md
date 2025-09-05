@@ -12,20 +12,21 @@ be for the large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
-Thursday, 4th of September 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
+Thursday, 13th of November 2025 from 20:00 - 22:00 at Technolab, Betaplein 28, Leiden.
 
-At this meeting, we have three talks planned:
+At this meeting, we have one talk planned and are still looking for a speaker for a second talk:
 
-- Talk 1: **Architecture of the Transformer model, used by Large Language Models such as ChatGPT** by Priyanjali Goel
-- Talk 2: **HTMX, the postmodern way of adding modern web features to your app** by Jan Murre
-- Talk 3: **Memory Graph: Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy** by Bas Terwijn
+- Talk 1: **Deploying Python apps to your own infra with Github Actions** by Michiel Beijen
+- Talk 2: ... your talk here?
+
+### About our meetups
 
 Our talks happen in a friendly and informal setting. They are a great way to learn new things, share your knowledge, and meet other Python enthusiasts.
 There is always room for questions and discussion.
 Our presentations and talks are in English to
 be accessible for the large amount of non-Dutch speakers in the Python community.
 
-More info on the [event page](/meeting-2025-09-04.html).
+More info on the [event page](/meeting-2025-11-13.html).
 
 Join us, be part of our community and let's meet there.
 
@@ -50,6 +51,7 @@ The language used in our group is English to cater for the large amount of non-D
 
 ## Past events
 
+- Thursday, 4th of September at Technolab ([event page](/meeting-2025-09-04.html))
 - Thursday, 10th of July at Technolab ([event page](/meeting-2025-07-10.html))
 - Thursday, 22nd of May at Technolab ([event page](/meeting-2025-05-22.html))
 - Thursday, 27 of March at Technolab ([event page](/meeting-2025-03-27.html))
