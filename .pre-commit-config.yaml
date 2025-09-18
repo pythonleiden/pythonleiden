@@ -8,11 +8,13 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
-      - id: trailing-whitespace
+      - id: check-yaml
       - id: end-of-file-fixer
+      - id: trailing-whitespace
+        exclude: \.md$
       - id: check-added-large-files
 
-  # Prettier for Formatting Markdown and HTML
+  # Prettier for Formatting HTML
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: "v4.0.0-alpha.8"
     hooks:
@@ -20,6 +22,15 @@ repos:
         additional_dependencies:
           - prettier
         name: Prettier file formatter
-        files: \.(md|html|yaml)$
+        files: \.(html|yaml)$
         types: [file]
         args: ["--write"]
+
+  # mdformat for formatting markdown!
+  - repo: https://github.com/hukkin/mdformat
+    rev: 0.7.22 # Use the ref you want to point at
+    hooks:
+      - id: mdformat
+        additional_dependencies:
+          - mdformat-frontmatter
+        args: ["--wrap", "79"]
