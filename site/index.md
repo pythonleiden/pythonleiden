@@ -16,12 +16,13 @@ large amount of non-Dutch speakers in the Python community.
 Thursday, 13th of November 2025 from 20:00 - 22:00 at Technolab, Betaplein 28,
 Leiden.
 
-At this meeting, we have one talk planned and are still looking for a speaker
-for a second talk:
+At this meeting, we have three talks planned:
 
-- Talk 1: **Deploying Python apps to your own infra with Github Actions** by
+- Talk 1: **Python and MongoDB, a perfect marriage** by Mathijs Gaastra
+- Talk 2: **Deploying Python apps to your own infra with Github Actions** by
   Michiel Beijen
-- Talk 2: ... your talk here?
+- Talk 3: **Identifying "blast beats" in music using Python** by Lino
+  Mediavilla
 
 ### About our meetups
 
