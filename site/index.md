@@ -13,7 +13,7 @@ large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
-Thursday, 13th of November 2025 from 20:00 - 22:00 at Technolab, Betaplein 28,
+Thursday, 13th of November 2025 from 19:15 - 22:00 at Technolab, Betaplein 28,
 Leiden.
 
 At this meeting, we have three talks planned:
@@ -23,6 +23,10 @@ At this meeting, we have three talks planned:
   Michiel Beijen
 - Talk 3: **Identifying "blast beats" in music using Python** by Lino
   Mediavilla
+
+This includes free pizza provided by our food sponsor
+[Samotics](https://samotics.com). If you do not care about pizza, feel free to
+join us at 20:00!
 
 ### About our meetups
 
@@ -52,7 +56,6 @@ Join us, be part of our community and let's meet there.
   [Bluesky](https://bsky.app/profile/pythonleiden.fosstodon.org.ap.brid.gy)
 - Our events follow the
   [Python Software Foundation code of conduct](https://policies.python.org/python.org/code-of-conduct/)
-- Interested in sponsoring? [Check out our sponsor page](/sponsor.html)
 
 The language used in our group is English to cater for the large amount of
 non-Dutch speakers in the Python community.
