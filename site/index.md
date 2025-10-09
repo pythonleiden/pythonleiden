@@ -28,6 +28,10 @@ This includes free pizza provided by our food sponsor
 [Samotics](https://samotics.com). If you do not care about pizza, feel free to
 join us at 20:00!
 
+More info on the [event page](/meeting-2025-11-13.html).
+
+Join us, be part of our community and let's meet there.
+
 ### About our meetups
 
 Our talks happen in a friendly and informal setting. They are a great way to
@@ -35,10 +39,6 @@ learn new things, share your knowledge, and meet other Python enthusiasts.
 There is always room for questions and discussion. Our presentations and talks
 are in English to be accessible for the large amount of non-Dutch speakers in
 the Python community.
-
-More info on the [event page](/meeting-2025-11-13.html).
-
-Join us, be part of our community and let's meet there.
 
 ## Group information
 
