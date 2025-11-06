@@ -14,7 +14,7 @@ large amount of non-Dutch speakers in the Python community.
 ## Next event
 
 Thursday, 13th of November 2025 from 19:15 - 22:00 at Technolab, Betaplein 28,
-Leiden.
+Leiden. [How to reach us](/how-to-reach-us.html).
 
 At this meeting, we have three talks planned:
 
