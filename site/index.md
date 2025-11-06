@@ -76,13 +76,33 @@ non-Dutch speakers in the Python community.
 - Monday, 27th of January 2025 at Denksportcentrum
   ([event page](/meeting-2025-01-27.html))
 
-## Partner
+## Partners
 
 [Technolab](https://www.technolableiden.nl/) is an organization that offers
 science education for children and teenagers. We're very happy to be able to
 use their facilities.
 
 ![Technolab logo](/images/logo-technolab.svg){: width="400" }
+
+[Samotics](https://www.samotics.com/) is our food sponsor, providing free pizza
+for our meetups. They are a Leiden-based company that specializes in AI-driven
+industrial monitoring solutions.
+
+![Samotics logo](/images/logo-samotics.png){: width="400" }
+
+The [Python Software Foundation](https://www.python.org/psf/) (PSF) is our
+Meetup.com membership sponsor. The PSF is a non-profit organization that
+manages the open source licensing for Python and supports the Python community
+through grants as well as providing infrastructure and events.
+
+![Python Software Foundation logo](/images/logo-psf.png){: width="400" }
+
+Also check out our dedicated [sponsorship page](/sponsor.html).
+
+## Donations
+
+Donations are always welcome, please check out [donate](/donate.html) for more
+information.
 
 ### Disclaimer
 
