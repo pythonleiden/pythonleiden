@@ -13,22 +13,23 @@ large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
-Thursday, 13th of November 2025 from 19:15 - 22:00 at Technolab, Betaplein 28,
+Thursday, 15th of January 2026 from 19:15 - 22:00 at Technolab, Betaplein 28,
 Leiden. [How to reach us](/how-to-reach-us.html).
 
-At this meeting, we have three talks planned:
+At this meeting, we have one talk planned so far, and we're looking for more!
 
-- Talk 1: **Python and MongoDB, a perfect marriage** by Mathijs Gaastra
-- Talk 2: **Deploying Python apps to your own infra with Github Actions** by
-  Michiel Beijen
-- Talk 3: **Identifying "blast beats" in music using Python** by Lino
-  Mediavilla
+- Talk 1: **Simple perfect setup: Handy task runner for data projects.
+  Prefect.io** by Reinout van Rees
+- Talk 2: **Your talk here?**
 
-This includes free pizza provided by our food sponsor
+We are still looking for longer or smaller additional talks. If you'd like to
+give a talk please contact us!
+
+The meeting includes free pizza provided by our food sponsor
 [Samotics](https://samotics.com). If you do not care about pizza, feel free to
 join us at 20:00!
 
-More info on the [event page](/meeting-2025-11-13.html).
+More info on the [event page](/meeting-2026-01-15.html).
 
 Join us, be part of our community and let's meet there.
 
@@ -68,6 +69,8 @@ non-Dutch speakers in the Python community.
 
 ## Past events
 
+- Thursday, 13th of November at Technolab
+  ([event page](/meeting-2025-11-13.html))
 - Thursday, 4th of September at Technolab
   ([event page](/meeting-2025-09-04.html))
 - Thursday, 10th of July at Technolab ([event page](/meeting-2025-07-10.html))
