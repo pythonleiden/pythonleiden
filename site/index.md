@@ -13,8 +13,8 @@ large amount of non-Dutch speakers in the Python community.
 
 ## Next event
 
-Thursday, 15th of January 2026 from 19:15 - 22:00 at Technolab, Betaplein 28,
-Leiden. [How to reach us](/how-to-reach-us.html).
+Thursday, 22nd of January 2026 from 19:15 - 22:00 at Technolab, Betaplein 28,
+Leiden.
 
 At this meeting, we have one talk planned so far, and we're looking for more!
 
@@ -29,7 +29,7 @@ The meeting includes free pizza provided by our food sponsor
 [Samotics](https://samotics.com). If you do not care about pizza, feel free to
 join us at 20:00!
 
-More info on the [event page](/meeting-2026-01-15.html).
+More info on the [event page](/meeting-2026-01-22.html).
 
 Join us, be part of our community and let's meet there.
 
