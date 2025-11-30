@@ -16,14 +16,15 @@ large amount of non-Dutch speakers in the Python community.
 Thursday, 22nd of January 2026 from 19:15 - 22:00 at Technolab, Betaplein 28,
 Leiden.
 
-At this meeting, we have one talk planned so far, and we're looking for more!
+At this meeting, we have three talks planned.
 
 - Talk 1: **Simple perfect setup: Handy task runner for data projects.
   Prefect.io** by Reinout van Rees
-- Talk 2: **Your talk here?**
+- Talk 2: **PostgreSQL + Python in 2026** by Aleksandr Dinu
+- Talk 3: **PR vs ROC Curves - which to use** by dr. ir. Sultan K. Imangaliyev
 
-We are still looking for longer or smaller additional talks. If you'd like to
-give a talk please contact us!
+If you'd like to give a longer or shorter talk on a future meetup, please
+contact us!
 
 The meeting includes free pizza provided by our food sponsor
 [Samotics](https://samotics.com). If you do not care about pizza, feel free to
